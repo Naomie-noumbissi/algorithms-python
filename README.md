@@ -10,8 +10,7 @@ Bubble Sort,
 Merge Sort,
 Technologien
 Python.
-Ziel
 
-Übung von grundlegenden Algorithmen und Datenstrukturen im Studium.
+Ziel: Übung von grundlegenden Algorithmen und Datenstrukturen im Studium.
 
 Autor: Naomie Noumbissi
